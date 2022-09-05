@@ -1,7 +1,7 @@
 
-package pkgfor.döngüsü.ile.çarpım.tablosu;
+package pkgfor.dongusu.ile.carpim.tablosu;
 
-public class ForDöngüsüİleÇarpımTablosu {
+public class ForDongusuİleCarpimTablosu {
 
    public static void main(String[] args) {
    
